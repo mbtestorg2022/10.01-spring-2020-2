@@ -19,9 +19,9 @@ Bryson, Joanna J. “[The future of AI’s impact on society](https://www.techno
 
 Busby, Mattha, and Anthony Cuthbertson. “[‘Killer Robots’ Ban Blocked by US and Russia at UN Meeting](https://www.independent.co.uk/life-style/gadgets-and-tech/news/killer-robots-un-meeting-autonomous-weapons-systems-campaigners-dismayed-a8519511.html).” _The Independent_, 3 September 2018.
 
-Central Intelligence Agency. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Background to ‘Assessing Russian Activities and Intentions in Recent US Elections’: The Analytic Process and Cyber Incident Attribution” (PDF - 1.5 MB)](https://www.dni.gov/files/documents/ICA_2017_01.pdf). 6 January 2017.
+Central Intelligence Agency. [“Background to ‘Assessing Russian Activities and Intentions in Recent US Elections’: The Analytic Process and Cyber Incident Attribution” (PDF - 1.5 MB)](https://www.dni.gov/files/documents/ICA_2017_01.pdf). 6 January 2017.
 
-Churchill, Winston S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Mankind is Confronted with One Supreme Task” (PDF)](https://winstonchurchill.org/wp-content/uploads/2008/06/SchwarzWinston_Churchill_and_Technology.pdf). _News of the World_, 14 November 1937.
+Churchill, Winston S. [“Mankind is Confronted with One Supreme Task” (PDF)](https://winstonchurchill.org/wp-content/uploads/2008/06/SchwarzWinston_Churchill_and_Technology.pdf). _News of the World_, 14 November 1937.
 
 Conger, Kate. “[Google Plans Not to Renew its Contract for Project Maven](https://gizmodo.com/google-plans-not-to-renew-its-contract-for-project-mave-1826488620).” Gizmodo, 1 June 2018.
 
@@ -53,7 +53,7 @@ Grey, C.G.P. “[Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557
 
 Grush, E. S., and C. S. Saunby. “[Fatalities Associated with Crash Induced Fuel Leakage and Fires](https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cbibliographic_details%7C2083893).” Ford Motor Company memo, 1977.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hague Convention (IV) on the Law and Custom of War on Land (1907), excerpts (PDF)](https://www.loc.gov/law/help/us-treaties/bevans/m-ust000001-0631.pdf), 18 October 1907.
+[Hague Convention (IV) on the Law and Custom of War on Land (1907), excerpts (PDF)](https://www.loc.gov/law/help/us-treaties/bevans/m-ust000001-0631.pdf), 18 October 1907.
 
 [Hague Convention (VIII) Relative to the Laying of Automatic Submarine Contact Mines](https://ihl-databases.icrc.org/applic/ihl/ihl.nsf/INTRO/215), 18 October 1907.
 
